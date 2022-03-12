@@ -1,0 +1,79 @@
+Iot is a machine to machine interaction.
+1.All the machines are connected to a server(cloud) and it is proccesed according to the requirments.
+2.It reduces the human-machine interaction and machines makes decision on its own.
+
+Embeded systems:
+Designing a specific hardware and software(known as firmware) to prform a specific task.
+-->In embedded systems the software is called as firmware.
+
+Types of embeded system:
+1.Small scale-Less real time constraints(not necessary to finish in required time).
+example:washing machine extending time for drying.
+
+2.Medium Scale:
+Real time constraints is present and it matters(plays a huge role).
+example:ps gaming,dvd  player.
+
+3.Large(sophisticated) Scale:
+Real time constraints is highly important and complexity is more.
+
+
+Controller:
+it consists of a processor,ram,hard disk which is in built and cannot be expanded.
+
+opposite of controller is processor. 
+
+History of micro controolers:
+1.8051
+2.PIC-periphereal interface controller.
+3.ARM-Advanced Risk Machine
+4.**AVR-Advanced Virtual Risk Machine.**-ARDUINO
+
+
+Arduino-
+USB PORT-5volts apacity.
+DJ jack-9-12volts
+ATMEGA328:(main of this controller)
+-->2kb RAM
+-->1kb EEPROM
+-->8 bit micro controller
+-->having 10 bitADC
+
+
+
+
+
+TASK:
+
+1.CONTROLLING 9,10,11 DIGITAL PINS OF 2 SECONDS OF DELAY(simultaneousuly).
+2.9,10,11should blink for 10 times and terminate the program.
+3.Control 9,10,11,Leds in void setup().
+Note:Run the void setup function as a void loop.
+4.Binary bits(4 bits)
+00-0
+01-1
+10-2
+11-3
+5.Binary bits(8 bits)
+000-0
+001-1
+010-2
+011-3
+100-4
+101-5
+110-6
+111-7
+
+
+Embedded system communication:
+1.Serial communication:
+Three major types.
+-->UART-Universal Arsynchronous Reciever Transmitter.
+	Simplex
+	Half duplex
+	Full duplex
+-->I2C Inter Integrated Chips or Communication.
+-->SPI-Serial Periphheral Interface
+-->USART-Universal Synchronous Arsynchronous Reciever Transmitter.
+
+2.Parallel communication

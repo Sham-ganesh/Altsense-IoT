@@ -1,0 +1,59 @@
+3-d Printing
+
+-->3-d files will be in the format .stl.
+
+It has two major steps :
+1.Designing:Design of the 3d model
+using google sketchup(or default designs are available in the websites which can be customised)
+Websites are:
+->thingiverse(user name:ShamGanesh Password:rani-12)
+->tinkercad
+->myminifactory
+
+2.Sketching:It is used to convert the design to the language understandable by the printing machine.
+FlashPrint is the software used for converting
+
+
+Uses:
+-->A box or outer look for your finalised object.
+-->Gives a good looking and safe product.
+
+Advantages:
+-->Economically cheaper.
+-->light weight.
+
+
+Note:Cura is the software to convert our language to 3-d printing machineslanguage.(for any machines)
+
+Flash Print(SlicingSoftware)
+It is very easy and user friendly software.
+We have 5 options:
+1.View-used to view the design(top view or bottom view.....right click and move the mouse to see different views)
+2.Move-it is the command used to move the design(text)in the 3d space.
+3.Rotate:used to rotate the plane of text(but ensure that the base is on the platform)
+4.Scale-This tool is used to give the size of the model(use uniform scaling)
+5.Cut-this tool is used to cut any unwanted text or design(delete the design after cutting)
+
+After finishing your design Check whether your design wants any support.(Support is nothing but if you any cuts/space in z axis then use support)
+
+Now give print option:
+Resolution:It tells the time and speed of the machine.
+Infill:it is the amount of material you are using.
+Speed:It is the speed(optimum- Print:60mm/s Travel:80mm/s)
+Temperature:210'c is the optimum temperature.
+
+After printing,Send your gcode to the machine through wifi.
+
+
+
+
+Designing Software:
+Google Sketch up:
+Tools:
+1.Push and pull (impotant tool)
+For deleting any particular area.
+For extending any area.
+2.Pencil and eraser:For drawing any design and for erasing.
+3.Shapes:To draw any shapes and just enter the dimensions.
+4.Offset:to just redraw the shapes upon the drawn shape.
+5.Rotate and hand:For changing the view and section of the design.

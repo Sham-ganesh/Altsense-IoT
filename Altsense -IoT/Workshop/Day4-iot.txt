@@ -1,0 +1,6 @@
+Day 4:
+Aim:
+1.To Control the led's using a app(app is developed in mit app inveentor)
+2.To Make the one adruino as server and other adruino as client.
+
+Mit App inventor:
